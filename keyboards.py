@@ -3,7 +3,7 @@ from telebot.types import (InlineKeyboardButton,
                            KeyboardButton,
                            ReplyKeyboardMarkup, ReplyKeyboardRemove)
 
-from core import bot_name
+from bot import bot_name
 
 
 """InlineKeyboards"""
